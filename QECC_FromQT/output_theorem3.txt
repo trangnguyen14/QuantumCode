@@ -1,0 +1,2457 @@
+Magma V2.28-11    Wed Mar 26 2025 06:02:35 on kashi    [Seed = 3512018481]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+[
+    <x + 1, 3>,
+    <x + Fq2.1^2, 3>,
+    <x + 2, 3>,
+    <x + Fq2.1^6, 3>,
+    <x^2 + Fq2.1*x + 1, 3>,
+    <x^2 + Fq2.1*x + 2, 3>,
+    <x^2 + Fq2.1^3*x + 1, 3>,
+    <x^2 + Fq2.1^3*x + 2, 3>,
+    <x^2 + Fq2.1^5*x + 1, 3>,
+    <x^2 + Fq2.1^5*x + 2, 3>,
+    <x^2 + Fq2.1^7*x + 1, 3>,
+    <x^2 + Fq2.1^7*x + 2, 3>
+]
+Quantum Code Found: [[60, 56, ≥ 2]]
+2
+[[60, 56, 2]] CSS quantum code over GF(3^4)
+[60, 58, 2] Cyclic Linear Code over GF(3^2)
+[60, 2, 48] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 56, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 58, 2] Cyclic Linear Code over GF(3^2)
+[60, 2, 48] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 56, ≥ 2]]
+2
+[[60, 56, 2]] CSS quantum code over GF(3^4)
+[60, 58, 2] Cyclic Linear Code over GF(3^2)
+[60, 2, 48] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 2]]
+2
+[[60, 36, 2]] CSS quantum code over GF(3^4)
+[60, 48, 2] Cyclic Linear Code over GF(3^2)
+[60, 12, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 56, ≥ 2]]
+2
+[[60, 56, 2]] CSS quantum code over GF(3^4)
+[60, 58, 2] Cyclic Linear Code over GF(3^2)
+[60, 2, 48] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 56, ≥ 2]]
+2
+[[60, 56, 2]] CSS quantum code over GF(3^4)
+[60, 58, 2] Cyclic Linear Code over GF(3^2)
+[60, 2, 48] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 2]]
+2
+[[60, 36, 2]] CSS quantum code over GF(3^4)
+[60, 48, 2] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 3]]
+3
+[[60, 28, 3]] CSS quantum code over GF(3^4)
+[60, 44, 3] Cyclic Linear Code over GF(3^2)
+[60, 16, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 3]]
+3
+[[60, 28, 3]] CSS quantum code over GF(3^4)
+[60, 44, 3] Cyclic Linear Code over GF(3^2)
+[60, 16, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 2]]
+2
+[[60, 36, 2]] CSS quantum code over GF(3^4)
+[60, 48, 2] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 3]]
+3
+[[60, 28, 3]] CSS quantum code over GF(3^4)
+[60, 44, 3] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 18] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 3]]
+3
+[[60, 28, 3]] CSS quantum code over GF(3^4)
+[60, 44, 3] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 3]]
+3
+[[60, 28, 3]] CSS quantum code over GF(3^4)
+[60, 44, 3] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 2]]
+2
+[[60, 36, 2]] CSS quantum code over GF(3^4)
+[60, 48, 2] Cyclic Linear Code over GF(3^2)
+[60, 12, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 3]]
+3
+[[60, 28, 3]] CSS quantum code over GF(3^4)
+[60, 44, 3] Cyclic Linear Code over GF(3^2)
+[60, 16, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 4]]
+4
+[[60, 24, 4]] CSS quantum code over GF(3^4)
+[60, 42, 4] Cyclic Linear Code over GF(3^2)
+[60, 18, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 3]]
+3
+[[60, 28, 3]] CSS quantum code over GF(3^4)
+[60, 44, 3] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 3]]
+3
+[[60, 24, 3]] CSS quantum code over GF(3^4)
+[60, 42, 3] Cyclic Linear Code over GF(3^2)
+[60, 18, 8] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 56, ≥ 2]]
+2
+[[60, 56, 2]] CSS quantum code over GF(3^4)
+[60, 58, 2] Cyclic Linear Code over GF(3^2)
+[60, 2, 48] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 5]]
+5
+[[60, 32, 5]] CSS quantum code over GF(3^4)
+[60, 46, 5] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 5]]
+5
+[[60, 32, 5]] CSS quantum code over GF(3^4)
+[60, 46, 5] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 5]]
+5
+[[60, 28, 5]] CSS quantum code over GF(3^4)
+[60, 44, 5] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 3]]
+3
+[[60, 48, 3]] CSS quantum code over GF(3^4)
+[60, 54, 3] Cyclic Linear Code over GF(3^2)
+[60, 6, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 5]]
+5
+[[60, 28, 5]] CSS quantum code over GF(3^4)
+[60, 44, 5] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 5]]
+5
+[[60, 32, 5]] CSS quantum code over GF(3^4)
+[60, 46, 5] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 5]]
+5
+[[60, 28, 5]] CSS quantum code over GF(3^4)
+[60, 44, 5] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 5]]
+5
+[[60, 24, 5]] CSS quantum code over GF(3^4)
+[60, 42, 5] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 4]]
+4
+[[60, 28, 4]] CSS quantum code over GF(3^4)
+[60, 44, 4] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 5]]
+5
+[[60, 32, 5]] CSS quantum code over GF(3^4)
+[60, 46, 5] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 5]]
+5
+[[60, 28, 5]] CSS quantum code over GF(3^4)
+[60, 44, 5] Cyclic Linear Code over GF(3^2)
+[60, 16, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 5]]
+5
+[[60, 24, 5]] CSS quantum code over GF(3^4)
+[60, 42, 5] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 28, ≥ 5]]
+5
+[[60, 28, 5]] CSS quantum code over GF(3^4)
+[60, 44, 5] Cyclic Linear Code over GF(3^2)
+[60, 16, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 24, ≥ 5]]
+5
+[[60, 24, 5]] CSS quantum code over GF(3^4)
+[60, 42, 5] Cyclic Linear Code over GF(3^2)
+[60, 18, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 20, ≥ 5]]
+5
+[[60, 20, 5]] CSS quantum code over GF(3^4)
+[60, 40, 5] Cyclic Linear Code over GF(3^2)
+[60, 20, 12] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 52, ≥ 2]]
+2
+[[60, 52, 2]] CSS quantum code over GF(3^4)
+[60, 56, 2] Cyclic Linear Code over GF(3^2)
+[60, 4, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 3]]
+3
+[[60, 44, 3]] CSS quantum code over GF(3^4)
+[60, 52, 3] Cyclic Linear Code over GF(3^2)
+[60, 8, 32] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 4]]
+4
+[[60, 40, 4]] CSS quantum code over GF(3^4)
+[60, 50, 4] Cyclic Linear Code over GF(3^2)
+[60, 10, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 48, ≥ 2]]
+2
+[[60, 48, 2]] CSS quantum code over GF(3^4)
+[60, 54, 2] Cyclic Linear Code over GF(3^2)
+[60, 6, 36] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 4]]
+4
+[[60, 36, 4]] CSS quantum code over GF(3^4)
+[60, 48, 4] Cyclic Linear Code over GF(3^2)
+[60, 12, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 44, ≥ 2]]
+2
+[[60, 44, 2]] CSS quantum code over GF(3^4)
+[60, 52, 2] Cyclic Linear Code over GF(3^2)
+[60, 8, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 2]]
+2
+[[60, 40, 2]] CSS quantum code over GF(3^4)
+[60, 50, 2] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 4]]
+4
+[[60, 32, 4]] CSS quantum code over GF(3^4)
+[60, 46, 4] Cyclic Linear Code over GF(3^2)
+[60, 14, 16] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 40, ≥ 3]]
+3
+[[60, 40, 3]] CSS quantum code over GF(3^4)
+[60, 50, 3] Cyclic Linear Code over GF(3^2)
+[60, 10, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 36, ≥ 3]]
+3
+[[60, 36, 3]] CSS quantum code over GF(3^4)
+[60, 48, 3] Cyclic Linear Code over GF(3^2)
+[60, 12, 24] Cyclic Linear Code over GF(3^2)
+Quantum Code Found: [[60, 32, ≥ 3]]
+3
+[[60, 32, 3]] CSS quantum code over GF(3^4)
+[60, 46, 3] Cyclic Linear Code over GF(3^2)
+[60, 14, 24] Cyclic Linear Code over GF(3^2)

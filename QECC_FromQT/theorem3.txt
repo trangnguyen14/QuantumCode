@@ -1,0 +1,79 @@
+// Declare the finite field GF(q^2) where q is a prime power.
+q := 3;  // Change this to your desired prime power
+Fq2 := GF(q^2);
+
+// Define the parameters
+n := 60;    
+
+// Define the polynomial ring over GF(q^2)
+R<x> := PolynomialRing(Fq2);
+
+// Define the polynomial x^n - 1
+f := x^n - 1;
+factorization := Factorization(f);
+factorization;
+
+// Determine the base (use the multiplicity of the first factor)
+base := factorization[1][2] + 1;
+r := #factorization;
+numCyc := base^r;
+
+// Base representation function
+function BaseRepresentation(n, b)
+    Q := [];
+    while n gt 0 do
+        a := n mod b;
+        Append(~Q, a);
+        n := n div b;
+    end while;
+    Reverse(~Q);
+    return Q;
+end function;
+
+// Generate and print Hermitian-constructed quantum codes
+cyclic_code := 1;
+
+for i in [1..numCyc-2] do  
+    base_rep := BaseRepresentation(i, base);
+    
+    // Pad with leading zeros
+    while #base_rep lt #factorization do
+        base_rep := [0] cat base_rep;
+    end while;
+
+    for j in [1..#factorization] do
+        cyclic_code := cyclic_code * (factorization[j][1]^base_rep[j]);
+    end for;
+
+    // Construct the classical cyclic code
+    C := CyclicCode(n, cyclic_code);
+
+    // Calculate minimum distance of C
+    minD := MinimumDistance(C);
+
+    // Construct the Hermitian Dual of C
+    CD := HermitianDual(C);  
+    mdCD := MinimumDistance(CD);
+
+    if CD subset C then
+        Q := CSSCode(C, CD);
+        printf "Quantum Code Found: [[%o, %o, ≥ %o]]\n", n, 2 * Dimension(C)-n, MinimumDistance(Q);
+        
+        MinimumWeight(Q);
+        Q:Minimal;
+        C:Minimal;
+        CD:Minimal;
+    end if;
+
+    if C subset CD then
+        Q := CSSCode(CD, C);
+        printf "Quantum Code Found: [[%o, %o, ≥ %o]]\n", n, 2 * Dimension(CD)-n, MinimumDistance(Q);
+        
+        MinimumWeight(Q);
+        Q:Minimal;
+        C:Minimal;
+        CD:Minimal;
+    end if;
+
+    cyclic_code := 1;
+end for;

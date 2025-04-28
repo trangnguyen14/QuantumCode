@@ -1,0 +1,66 @@
+// Theorem 5.2: Quantum Codes from Symplectic Self-Orthogonal Codes (Dual Contained in Code)
+
+q := 3; // Field size (adjust as needed)
+n := 13; // Half the classical code length (code length is 2n)
+F := GF(q);
+
+// Generate a random [2n, k] linear code
+k := 6; // Dimension (k ≥ n here)
+G := RandomMatrix(F, k, 2*n); // Generator matrix of size k x 2n
+C := LinearCode(G); // Classical code C
+
+// Define symplectic inner product for two vectors
+function SymplecticInnerProduct(u, v)
+    n := #u div 2;
+    sum := F!0;
+    for i in [1..n] do
+        sum +:= u[i]*v[n+i] - u[n+i]*v[i];
+    end for;
+    return sum;
+end function;
+
+// Compute symplectic dual 
+function SymplecticDual(C)
+    V := VectorSpace(BaseRing(C), Length(C));
+    Dual := sub<V | >; // start with zero subspace
+    for v in V do
+        if forall{c : c in Generators(C) | SymplecticInnerProduct(Eltseq(c), Eltseq(v)) eq 0} then
+            Dual := sub<V | Setseq(Generators(Dual)) cat [v]>;
+        end if;
+    end for;
+    return LinearCode(Dual);
+end function;
+
+// Compute symplectic weight of a vector
+function SymplecticWeight(v)
+    n := #v div 2;
+    count := 0;
+    for i in [1..n] do
+        if v[i] ne 0 or v[n+i] ne 0 then
+            count +:= 1;
+        end if;
+    end for;
+    return count;
+end function;
+
+// Now construct quantum code if possible
+CDS := SymplecticDual(C);
+
+// Check if CDS subset of C
+if forall{c : c in Generators(CDS) | c in C} then
+    // Compute minimum symplectic distance
+    d_s := 2*n; // initialize as maximum possible value
+    for v in C do
+        if v notin CDS then
+            ws := SymplecticWeight(Eltseq(v));
+            if ws lt d_s then
+                d_s := ws;
+            end if;
+        end if;
+    end for;
+
+    // Print the quantum code parameters
+    printf "Quantum Code Found: [[%o, %o, %o]] over GF(%o)\n", n, k-n, d_s, q;
+else
+    printf "The symplectic dual CDS is not contained in C. No quantum code produced.\n";
+end if;
