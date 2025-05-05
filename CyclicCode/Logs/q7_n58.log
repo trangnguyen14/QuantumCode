@@ -1,0 +1,17 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 1545860328]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q7_n58.m"
+Quantum Code Found: [[58, 44, 2]] over GF(7)
+Quantum Code Found: [[58, 44, 2]] over GF(7)

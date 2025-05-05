@@ -1,0 +1,44 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 3501160571]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q3_n52.m"
+Quantum Code Found: [[52, 40, 2]] over GF(3)
+Quantum Code Found: [[52, 40, 2]] over GF(3)
+Quantum Code Found: [[52, 28, 2]] over GF(3)
+Quantum Code Found: [[52, 40, 2]] over GF(3)
+Quantum Code Found: [[52, 28, 2]] over GF(3)
+Quantum Code Found: [[52, 40, 2]] over GF(3)
+Quantum Code Found: [[52, 28, 2]] over GF(3)
+Quantum Code Found: [[52, 28, 2]] over GF(3)
+Quantum Code Found: [[52, 46, 2]] over GF(3)
+Quantum Code Found: [[52, 34, 4]] over GF(3)
+Quantum Code Found: [[52, 34, 4]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 34, 4]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 34, 3]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 46, 2]] over GF(3)
+Quantum Code Found: [[52, 34, 4]] over GF(3)
+Quantum Code Found: [[52, 34, 3]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 34, 4]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 34, 4]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 22, 4]] over GF(3)
+Quantum Code Found: [[52, 40, 2]] over GF(3)
+Quantum Code Found: [[52, 28, 5]] over GF(3)
+Quantum Code Found: [[52, 28, 5]] over GF(3)

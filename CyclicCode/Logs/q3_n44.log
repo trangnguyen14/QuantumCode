@@ -1,0 +1,36 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 1211621603]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q3_n44.m"
+Quantum Code Found: [[44, 24, 2]] over GF(3)
+Quantum Code Found: [[44, 24, 2]] over GF(3)
+Quantum Code Found: [[44, 34, 2]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 34, 2]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 24, 2]] over GF(3)
+Quantum Code Found: [[44, 4, 7]] over GF(3)
+Quantum Code Found: [[44, 4, 5]] over GF(3)
+Quantum Code Found: [[44, 34, 2]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 24, 2]] over GF(3)
+Quantum Code Found: [[44, 4, 8]] over GF(3)
+Quantum Code Found: [[44, 4, 8]] over GF(3)
+Quantum Code Found: [[44, 34, 2]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 14, 4]] over GF(3)
+Quantum Code Found: [[44, 24, 2]] over GF(3)

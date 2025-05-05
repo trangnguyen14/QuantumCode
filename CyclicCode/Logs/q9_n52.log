@@ -1,0 +1,25 @@
+Magma V2.28-11    Sun May  4 2025 20:19:20 on kashi    [Seed = 1328605173]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q9_n52.m"
+Quantum Code Found: [[52, 46, 2]] over GF(9)
+Quantum Code Found: [[52, 46, 2]] over GF(9)
+Quantum Code Found: [[52, 46, 2]] over GF(9)
+Quantum Code Found: [[52, 40, 2]] over GF(9)
+Quantum Code Found: [[52, 40, 2]] over GF(9)
+Quantum Code Found: [[52, 46, 2]] over GF(9)
+Quantum Code Found: [[52, 40, 3]] over GF(9)
+Quantum Code Found: [[52, 40, 3]] over GF(9)
+Quantum Code Found: [[52, 40, 3]] over GF(9)
+Quantum Code Found: [[52, 34, 3]] over GF(9)

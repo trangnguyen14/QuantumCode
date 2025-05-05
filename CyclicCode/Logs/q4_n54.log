@@ -1,0 +1,64 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 3484444516]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q4_n54.m"
+Quantum Code Found: [[54, 36, 2]] over GF(4)
+Quantum Code Found: [[54, 18, 2]] over GF(4)
+Quantum Code Found: [[54, 36, 2]] over GF(4)
+Quantum Code Found: [[54, 18, 2]] over GF(4)
+Quantum Code Found: [[54, 18, 2]] over GF(4)
+Quantum Code Found: [[54, 48, 2]] over GF(4)
+Quantum Code Found: [[54, 30, 2]] over GF(4)
+Quantum Code Found: [[54, 12, 4]] over GF(4)
+Quantum Code Found: [[54, 30, 2]] over GF(4)
+Quantum Code Found: [[54, 12, 2]] over GF(4)
+Quantum Code Found: [[54, 12, 4]] over GF(4)
+Quantum Code Found: [[54, 42, 2]] over GF(4)
+Quantum Code Found: [[54, 24, 3]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 24, 3]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 48, 2]] over GF(4)
+Quantum Code Found: [[54, 30, 2]] over GF(4)
+Quantum Code Found: [[54, 12, 4]] over GF(4)
+Quantum Code Found: [[54, 30, 2]] over GF(4)
+Quantum Code Found: [[54, 12, 2]] over GF(4)
+Quantum Code Found: [[54, 12, 4]] over GF(4)
+Quantum Code Found: [[54, 42, 2]] over GF(4)
+Quantum Code Found: [[54, 24, 2]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 24, 2]] over GF(4)
+Quantum Code Found: [[54, 6, 2]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 42, 2]] over GF(4)
+Quantum Code Found: [[54, 24, 3]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 24, 3]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 6, 4]] over GF(4)
+Quantum Code Found: [[54, 52, 2]] over GF(4)
+Quantum Code Found: [[54, 34, 2]] over GF(4)
+Quantum Code Found: [[54, 16, 4]] over GF(4)
+Quantum Code Found: [[54, 34, 2]] over GF(4)
+Quantum Code Found: [[54, 16, 2]] over GF(4)
+Quantum Code Found: [[54, 16, 4]] over GF(4)
+Quantum Code Found: [[54, 46, 2]] over GF(4)
+Quantum Code Found: [[54, 28, 2]] over GF(4)
+Quantum Code Found: [[54, 10, 4]] over GF(4)
+Quantum Code Found: [[54, 28, 2]] over GF(4)
+Quantum Code Found: [[54, 10, 2]] over GF(4)
+Quantum Code Found: [[54, 10, 4]] over GF(4)
+Quantum Code Found: [[54, 40, 2]] over GF(4)
+Quantum Code Found: [[54, 22, 3]] over GF(4)

@@ -1,7 +1,7 @@
 // Theorem 5.1: Quantum Codes from Symplectic Self-Orthogonal Codes
 
 q := 5; // Field size (adjust if needed)
-n := 11; // Half the classical code length (so classical code has length 2n)
+n := 10; // Half the classical code length (so classical code has length 2n)
 F := GF(q);
 
 // Generate a random [2n, k] linear code

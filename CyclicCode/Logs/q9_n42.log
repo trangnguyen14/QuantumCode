@@ -1,0 +1,37 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 3083345667]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q9_n42.m"
+Quantum Code Found: [[42, 36, 2]] over GF(9)
+Quantum Code Found: [[42, 30, 2]] over GF(9)
+Quantum Code Found: [[42, 24, 2]] over GF(9)
+Quantum Code Found: [[42, 36, 2]] over GF(9)
+Quantum Code Found: [[42, 30, 2]] over GF(9)
+Quantum Code Found: [[42, 24, 2]] over GF(9)
+Quantum Code Found: [[42, 30, 2]] over GF(9)
+Quantum Code Found: [[42, 24, 2]] over GF(9)
+Quantum Code Found: [[42, 24, 2]] over GF(9)
+Quantum Code Found: [[42, 36, 2]] over GF(9)
+Quantum Code Found: [[42, 30, 2]] over GF(9)
+Quantum Code Found: [[42, 24, 3]] over GF(9)
+Quantum Code Found: [[42, 18, 4]] over GF(9)
+Quantum Code Found: [[42, 30, 2]] over GF(9)
+Quantum Code Found: [[42, 24, 2]] over GF(9)
+Quantum Code Found: [[42, 18, 3]] over GF(9)
+Quantum Code Found: [[42, 24, 3]] over GF(9)
+Quantum Code Found: [[42, 18, 3]] over GF(9)
+Quantum Code Found: [[42, 18, 4]] over GF(9)
+Quantum Code Found: [[42, 30, 2]] over GF(9)
+Quantum Code Found: [[42, 24, 3]] over GF(9)
+Quantum Code Found: [[42, 18, 3]] over GF(9)

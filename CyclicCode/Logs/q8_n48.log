@@ -1,0 +1,200 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 2615423776]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q8_n48.m"
+Quantum Code Found: [[48, 44, 2]] over GF(8)
+Quantum Code Found: [[48, 40, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 46, 2]] over GF(8)
+Quantum Code Found: [[48, 42, 2]] over GF(8)
+Quantum Code Found: [[48, 38, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 44, 2]] over GF(8)
+Quantum Code Found: [[48, 40, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 42, 2]] over GF(8)
+Quantum Code Found: [[48, 38, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 10, 2]] over GF(8)
+Quantum Code Found: [[48, 40, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 8, 2]] over GF(8)
+Quantum Code Found: [[48, 38, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 10, 2]] over GF(8)
+Quantum Code Found: [[48, 6, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 8, 2]] over GF(8)
+Quantum Code Found: [[48, 4, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 10, 2]] over GF(8)
+Quantum Code Found: [[48, 6, 2]] over GF(8)
+Quantum Code Found: [[48, 2, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 8, 2]] over GF(8)
+Quantum Code Found: [[48, 4, 2]] over GF(8)
+Quantum Code Found: [[48, 0, 2]] over GF(8)
+Quantum Code Found: [[48, 0, 2]] over GF(8)
+Quantum Code Found: [[48, 4, 2]] over GF(8)
+Quantum Code Found: [[48, 8, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 2, 2]] over GF(8)
+Quantum Code Found: [[48, 6, 2]] over GF(8)
+Quantum Code Found: [[48, 10, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 4, 2]] over GF(8)
+Quantum Code Found: [[48, 8, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 6, 2]] over GF(8)
+Quantum Code Found: [[48, 10, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 38, 2]] over GF(8)
+Quantum Code Found: [[48, 8, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 40, 2]] over GF(8)
+Quantum Code Found: [[48, 10, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 38, 2]] over GF(8)
+Quantum Code Found: [[48, 42, 2]] over GF(8)
+Quantum Code Found: [[48, 12, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 40, 2]] over GF(8)
+Quantum Code Found: [[48, 44, 2]] over GF(8)
+Quantum Code Found: [[48, 14, 2]] over GF(8)
+Quantum Code Found: [[48, 18, 2]] over GF(8)
+Quantum Code Found: [[48, 22, 2]] over GF(8)
+Quantum Code Found: [[48, 26, 2]] over GF(8)
+Quantum Code Found: [[48, 30, 2]] over GF(8)
+Quantum Code Found: [[48, 34, 2]] over GF(8)
+Quantum Code Found: [[48, 38, 2]] over GF(8)
+Quantum Code Found: [[48, 42, 2]] over GF(8)
+Quantum Code Found: [[48, 46, 2]] over GF(8)
+Quantum Code Found: [[48, 16, 2]] over GF(8)
+Quantum Code Found: [[48, 20, 2]] over GF(8)
+Quantum Code Found: [[48, 24, 2]] over GF(8)
+Quantum Code Found: [[48, 28, 2]] over GF(8)
+Quantum Code Found: [[48, 32, 2]] over GF(8)
+Quantum Code Found: [[48, 36, 2]] over GF(8)
+Quantum Code Found: [[48, 40, 2]] over GF(8)
+Quantum Code Found: [[48, 44, 2]] over GF(8)
+
+Total time: 7.240 seconds, Total memory usage: 32.09MB
+	Command being timed: "magma /home/nguyen7/QuantumCode/CyclicCode/Input/q8_n48.m"
+	User time (seconds): 7.24
+	System time (seconds): 0.01
+	Percent of CPU this job got: 4%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:42.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 23424
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2874
+	Voluntary context switches: 5
+	Involuntary context switches: 2001
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 56
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

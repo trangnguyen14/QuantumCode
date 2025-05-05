@@ -1,0 +1,53 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 8366267]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q5_n62.m"
+Quantum Code Found: [[62, 56, 2]] over GF(5)
+Quantum Code Found: [[62, 56, 2]] over GF(5)
+Quantum Code Found: [[62, 50, 2]] over GF(5)
+Quantum Code Found: [[62, 56, 2]] over GF(5)
+Quantum Code Found: [[62, 50, 4]] over GF(5)
+Quantum Code Found: [[62, 50, 3]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 56, 2]] over GF(5)
+Quantum Code Found: [[62, 50, 4]] over GF(5)
+Quantum Code Found: [[62, 50, 3]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 50, 2]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 38, 4]] over GF(5)
+Quantum Code Found: [[62, 56, 2]] over GF(5)
+Quantum Code Found: [[62, 50, 2]] over GF(5)
+Quantum Code Found: [[62, 50, 2]] over GF(5)
+Quantum Code Found: [[62, 44, 2]] over GF(5)
+Quantum Code Found: [[62, 50, 4]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 38, 4]] over GF(5)
+Quantum Code Found: [[62, 50, 3]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 38, 4]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 38, 4]] over GF(5)
+Quantum Code Found: [[62, 38, 4]] over GF(5)
+Quantum Code Found: [[62, 32, 4]] over GF(5)
+Quantum Code Found: [[62, 56, 2]] over GF(5)
+Quantum Code Found: [[62, 50, 4]] over GF(5)
+Quantum Code Found: [[62, 50, 4]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 50, 2]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)
+Quantum Code Found: [[62, 44, 4]] over GF(5)

@@ -1,0 +1,75 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 1946934495]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q2_n78.m"
+Quantum Code Found: [[78, 54, 2]] over GF(2)
+Quantum Code Found: [[78, 54, 2]] over GF(2)
+Quantum Code Found: [[78, 30, 2]] over GF(2)
+Quantum Code Found: [[78, 30, 3]] over GF(2)
+Quantum Code Found: [[78, 6, 6]] over GF(2)
+Quantum Code Found: [[78, 54, 2]] over GF(2)
+Quantum Code Found: [[78, 30, 2]] over GF(2)
+Quantum Code Found: [[78, 30, 2]] over GF(2)
+Quantum Code Found: [[78, 6, 2]] over GF(2)
+Quantum Code Found: [[78, 30, 3]] over GF(2)
+Quantum Code Found: [[78, 6, 6]] over GF(2)
+Quantum Code Found: [[78, 74, 2]] over GF(2)
+Quantum Code Found: [[78, 50, 2]] over GF(2)
+Quantum Code Found: [[78, 50, 2]] over GF(2)
+Quantum Code Found: [[78, 26, 2]] over GF(2)
+Quantum Code Found: [[78, 26, 3]] over GF(2)
+Quantum Code Found: [[78, 2, 6]] over GF(2)
+Quantum Code Found: [[78, 50, 2]] over GF(2)
+Quantum Code Found: [[78, 26, 2]] over GF(2)
+Quantum Code Found: [[78, 26, 2]] over GF(2)
+Quantum Code Found: [[78, 2, 2]] over GF(2)
+Quantum Code Found: [[78, 26, 3]] over GF(2)
+Quantum Code Found: [[78, 2, 6]] over GF(2)
+Quantum Code Found: [[78, 76, 2]] over GF(2)
+Quantum Code Found: [[78, 52, 2]] over GF(2)
+Quantum Code Found: [[78, 52, 2]] over GF(2)
+Quantum Code Found: [[78, 28, 2]] over GF(2)
+Quantum Code Found: [[78, 28, 6]] over GF(2)
+Quantum Code Found: [[78, 4, 10]] over GF(2)
+Quantum Code Found: [[78, 52, 2]] over GF(2)
+Quantum Code Found: [[78, 28, 2]] over GF(2)
+Quantum Code Found: [[78, 28, 2]] over GF(2)
+Quantum Code Found: [[78, 4, 2]] over GF(2)
+Quantum Code Found: [[78, 28, 6]] over GF(2)
+Quantum Code Found: [[78, 4, 10]] over GF(2)
+Quantum Code Found: [[78, 72, 2]] over GF(2)
+Quantum Code Found: [[78, 48, 2]] over GF(2)
+Quantum Code Found: [[78, 48, 2]] over GF(2)
+Quantum Code Found: [[78, 24, 2]] over GF(2)
+Quantum Code Found: [[78, 24, 6]] over GF(2)
+Quantum Code Found: [[78, 0, 6]] over GF(2)
+Quantum Code Found: [[78, 0, 6]] over GF(2)
+Quantum Code Found: [[78, 24, 6]] over GF(2)
+Quantum Code Found: [[78, 48, 2]] over GF(2)
+Quantum Code Found: [[78, 24, 2]] over GF(2)
+Quantum Code Found: [[78, 24, 2]] over GF(2)
+Quantum Code Found: [[78, 0, 2]] over GF(2)
+Quantum Code Found: [[78, 0, 2]] over GF(2)
+Quantum Code Found: [[78, 24, 2]] over GF(2)
+Quantum Code Found: [[78, 24, 2]] over GF(2)
+Quantum Code Found: [[78, 48, 2]] over GF(2)
+Quantum Code Found: [[78, 24, 6]] over GF(2)
+Quantum Code Found: [[78, 0, 6]] over GF(2)
+Quantum Code Found: [[78, 0, 6]] over GF(2)
+Quantum Code Found: [[78, 24, 6]] over GF(2)
+Quantum Code Found: [[78, 24, 2]] over GF(2)
+Quantum Code Found: [[78, 48, 2]] over GF(2)
+Quantum Code Found: [[78, 48, 2]] over GF(2)
+Quantum Code Found: [[78, 72, 2]] over GF(2)
+Quantum Code Found: [[78, 4, 10]] over GF(2)

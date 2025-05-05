@@ -1,0 +1,63 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 1980358338]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q7_n42.m"
+Quantum Code Found: [[42, 40, 2]] over GF(7)
+Quantum Code Found: [[42, 38, 2]] over GF(7)
+Quantum Code Found: [[42, 36, 2]] over GF(7)
+Quantum Code Found: [[42, 40, 2]] over GF(7)
+Quantum Code Found: [[42, 38, 2]] over GF(7)
+Quantum Code Found: [[42, 36, 2]] over GF(7)
+Quantum Code Found: [[42, 34, 2]] over GF(7)
+Quantum Code Found: [[42, 38, 2]] over GF(7)
+Quantum Code Found: [[42, 36, 2]] over GF(7)
+Quantum Code Found: [[42, 34, 2]] over GF(7)
+Quantum Code Found: [[42, 32, 2]] over GF(7)
+Quantum Code Found: [[42, 36, 2]] over GF(7)
+Quantum Code Found: [[42, 34, 2]] over GF(7)
+Quantum Code Found: [[42, 32, 2]] over GF(7)
+Quantum Code Found: [[42, 30, 2]] over GF(7)
+Quantum Code Found: [[42, 34, 2]] over GF(7)
+Quantum Code Found: [[42, 32, 2]] over GF(7)
+Quantum Code Found: [[42, 30, 2]] over GF(7)
+Quantum Code Found: [[42, 28, 2]] over GF(7)
+Quantum Code Found: [[42, 32, 2]] over GF(7)
+Quantum Code Found: [[42, 30, 2]] over GF(7)
+Quantum Code Found: [[42, 28, 2]] over GF(7)
+Quantum Code Found: [[42, 26, 2]] over GF(7)
+Quantum Code Found: [[42, 30, 2]] over GF(7)
+Quantum Code Found: [[42, 28, 2]] over GF(7)
+Quantum Code Found: [[42, 26, 2]] over GF(7)
+Quantum Code Found: [[42, 24, 2]] over GF(7)
+Quantum Code Found: [[42, 28, 2]] over GF(7)
+Quantum Code Found: [[42, 26, 2]] over GF(7)
+Quantum Code Found: [[42, 24, 2]] over GF(7)
+Quantum Code Found: [[42, 22, 2]] over GF(7)
+Quantum Code Found: [[42, 40, 2]] over GF(7)
+Quantum Code Found: [[42, 38, 2]] over GF(7)
+Quantum Code Found: [[42, 36, 3]] over GF(7)
+Quantum Code Found: [[42, 34, 3]] over GF(7)
+Quantum Code Found: [[42, 38, 2]] over GF(7)
+Quantum Code Found: [[42, 36, 2]] over GF(7)
+Quantum Code Found: [[42, 34, 3]] over GF(7)
+Quantum Code Found: [[42, 32, 4]] over GF(7)
+Quantum Code Found: [[42, 36, 3]] over GF(7)
+Quantum Code Found: [[42, 34, 3]] over GF(7)
+Quantum Code Found: [[42, 32, 3]] over GF(7)
+Quantum Code Found: [[42, 30, 4]] over GF(7)
+Quantum Code Found: [[42, 34, 3]] over GF(7)
+Quantum Code Found: [[42, 32, 4]] over GF(7)
+Quantum Code Found: [[42, 30, 4]] over GF(7)
+Quantum Code Found: [[42, 28, 4]] over GF(7)
+Quantum Code Found: [[42, 32, 3]] over GF(7)

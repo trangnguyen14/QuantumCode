@@ -1,0 +1,42 @@
+Magma V2.28-11    Sun May  4 2025 20:43:33 on kashi    [Seed = 1161492289]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/NonBinFromQC/mass_search_t5_1/Input/q2_\
+n6_k4.m"
+No symplectic quantum code produced: C not subset of CDS.
+
+Total time: 0.040 seconds, Total memory usage: 32.09MB
+	Command being timed: "magma /home/nguyen7/QuantumCode/NonBinFromQC/mass_search_t5_1/Input/q2_n6_k4.m"
+	User time (seconds): 0.04
+	System time (seconds): 0.00
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20608
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2489
+	Voluntary context switches: 5
+	Involuntary context switches: 16
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

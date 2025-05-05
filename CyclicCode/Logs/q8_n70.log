@@ -1,0 +1,28 @@
+Magma V2.28-11    Sun May  4 2025 20:19:19 on kashi    [Seed = 2548580140]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/CyclicCode/Input/q8_n70.m"
+Quantum Code Found: [[70, 62, 2]] over GF(8)
+Quantum Code Found: [[70, 54, 2]] over GF(8)
+Quantum Code Found: [[70, 62, 2]] over GF(8)
+Quantum Code Found: [[70, 54, 2]] over GF(8)
+Quantum Code Found: [[70, 46, 3]] over GF(8)
+Quantum Code Found: [[70, 54, 2]] over GF(8)
+Quantum Code Found: [[70, 46, 3]] over GF(8)
+Quantum Code Found: [[70, 38, 3]] over GF(8)
+Quantum Code Found: [[70, 62, 2]] over GF(8)
+Quantum Code Found: [[70, 54, 2]] over GF(8)
+Quantum Code Found: [[70, 46, 3]] over GF(8)
+Quantum Code Found: [[70, 54, 2]] over GF(8)
+Quantum Code Found: [[70, 46, 2]] over GF(8)

@@ -1,0 +1,41 @@
+Magma V2.28-11    Sun May  4 2025 19:26:43 on kashi    [Seed = 559873343]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "/home/nguyen7/QuantumCode/QECC_FromQT/auto_run_theorem_3/Input/q5\
+_n20.m"
+Quantum Code Found: [[20, 18, ≥ 2]]
+Quantum Code Found: [[20, 16, ≥ 2]]
+Quantum Code Found: [[20, 14, ≥ 2]]
+Quantum Code Found: [[20, 12, ≥ 2]]
+Quantum Code Found: [[20, 10, ≥ 2]]
+Quantum Code Found: [[20, 18, ≥ 2]]
+Quantum Code Found: [[20, 16, ≥ 2]]
+Quantum Code Found: [[20, 14, ≥ 3]]
+Quantum Code Found: [[20, 12, ≥ 3]]
+Quantum Code Found: [[20, 10, ≥ 3]]
+Quantum Code Found: [[20, 8, ≥ 3]]
+Quantum Code Found: [[20, 16, ≥ 2]]
+Quantum Code Found: [[20, 14, ≥ 3]]
+Quantum Code Found: [[20, 12, ≥ 3]]
+Quantum Code Found: [[20, 10, ≥ 3]]
+Quantum Code Found: [[20, 8, ≥ 3]]
+Quantum Code Found: [[20, 6, ≥ 3]]
+Quantum Code Found: [[20, 18, ≥ 2]]
+Quantum Code Found: [[20, 16, ≥ 2]]
+Quantum Code Found: [[20, 14, ≥ 2]]
+Quantum Code Found: [[20, 12, ≥ 2]]
+Quantum Code Found: [[20, 10, ≥ 2]]
+Quantum Code Found: [[20, 16, ≥ 2]]
+Quantum Code Found: [[20, 14, ≥ 2]]
+Quantum Code Found: [[20, 12, ≥ 3]]
